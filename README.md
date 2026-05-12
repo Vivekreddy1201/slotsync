@@ -13,30 +13,30 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project is a beautifully designed, full-stack scheduling and booking system modeled directly after SlotSync. Built with an unwavering commitment to UI/UX excellence, it offers seamless appointment scheduling, customizable user availability, and a frictionless public-facing booking flow.
 
 Whether you're looking to share your availability with a simple `/[slug]` link or extensively manage your working hours and timezone, this application delivers a remarkably smooth experience.
 
-## ✨ Core Features
+## Core Features
 
-#### 📅 Effortless Booking Experience
+#### Effortless Booking Experience
 - **Public Booking Pages**: Instantly generate clean, shareable URLs for others to book time on your calendar.
 - **Smart Time Slots**: The system automatically slices your available hours into crisp intervals tailored to your event type's duration.
 - **Buffer Times**: Configurable buffers before and after events to prevent burn-out and back-to-back unmanageable schedules.
 
-#### ⚙️ Powerful Event & Availability Management
+#### Powerful Event & Availability Management
 - **Multiple Schedules**: Define various availability curves (e.g. "Working Hours", "Weekends") and assign them to specific events.
 - **Date Overrides**: Step away for a vacation? Set specific dates as "Unavailable" or create custom working hours for specific days without ruining your weekly schedule.
 - **Timezone Awareness**: Full support for scheduling across international boundaries.
 
-#### 📊 Dashboard & Workflows
+#### Dashboard & Workflows
 - **Upcoming & Past Meetings**: See exactly what's on your agenda.
 - **Cancel Framework**: Soft cancellation capabilities to back out of upcoming reservations safely.
 - **Bulk Updates**: Need to switch the default schedule for 15 event types? Do it in one click via the bulk update flow.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Our stack is lean, type-safe, and highly scalable:
 
@@ -53,9 +53,9 @@ Our stack is lean, type-safe, and highly scalable:
 
 ---
 
-## 🚀 Live Production Deployment
+## Live Production Deployment
 
-**🌐 Live URL:** [https://slotsyncweb.vercel.app/](https://slotsyncweb.vercel.app/)
+** Live URL:** [https://slotsyncweb.vercel.app/](https://slotsyncweb.vercel.app/)
 
 The codebase is natively configured for an immediate 1-click cloud deployment.
 
@@ -65,7 +65,7 @@ The codebase is natively configured for an immediate 1-click cloud deployment.
 
 ---
 
-## 💻 Local Development Setup
+## Local Development Setup
 
 Interested in running the repository on your own machine? Start here.
 
